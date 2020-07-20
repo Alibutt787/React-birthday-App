@@ -1,6 +1,7 @@
 .App{
   font-family: "Arial Black", Gadget, sans-serif;
-  @media (max-width: 600px);
+  @media (max-width: 480px) 
+    display: none;
 
   
 }
