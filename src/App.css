@@ -1,6 +1,6 @@
 .App{
   font-family: "Arial Black", Gadget, sans-serif;
-  position: fixed;
+
   
 }
 .by{
@@ -31,7 +31,7 @@
   margin-top: 30px;
   height: 150px;
   width: 100px;
-  position: fixed;
+  
   
   
 }
@@ -47,5 +47,5 @@
 
   width: 500px;
   height:300px;
-  position: fixed;
+  
 }
