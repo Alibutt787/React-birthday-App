@@ -11,7 +11,7 @@ import React from'react';
 
         <img  className="ht" src="https://i.pinimg.com/originals/e7/ef/ac/e7efac6ab709e5a5213198c83f076029.gif" alt="HBD CAKE" />
       <br/>  <img id="fr" src="https://sweetlovemessages.com/wp-content/uploads/2019/10/1st_birthday_wishes_for_nephew.jpg" alt="Birthday Quote" />
-        <footer>&copy; Copyright 2020 Ali BHATT</footer>
+        <footer>&copy; Copyright 2020 Aqib Butt</footer>
         </div>
     )
     }
