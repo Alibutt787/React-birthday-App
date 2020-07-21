@@ -1,11 +1,13 @@
 .App{
   font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
   @media (max-width: 480px) 
     display: none;
     position: relative;
 
   
 }
+
 .by{
   width: 100px;
   height:100px;
@@ -19,14 +21,14 @@
 #fr{
   height: 400px;
   width: 350px;
-  margin-left: 30px;
+  
   
 
 }
 
 .ht{
   height: 350px;
-  width: 410px;
+  width: 350px;
   
   
 }
