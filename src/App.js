@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
     
-    <title>hye g</title>
+    <title>BIRTHDAY</title>
  <Cke />
 
  
